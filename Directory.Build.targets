@@ -1,0 +1,11 @@
+<Project>
+  <Target Name="CheckLocalGameReferences" BeforeTargets="ResolveReferences"
+          Condition="'$(MSBuildProjectName)' == 'BrewingExpansion' Or '$(MSBuildProjectName)' == 'XuxuMusic'">
+    <Error Condition="'$(GameDir)' == ''"
+           Text="Set GameDir or PROBABLY_STOLEN_GAME_DIR to your local Probably Stolen installation." />
+    <Error Condition="'$(GameDir)' != '' And !Exists('$(GameDir)/MelonLoader/net6/MelonLoader.dll')"
+           Text="MelonLoader/net6/MelonLoader.dll not found under GameDir. Install MelonLoader first." />
+    <Error Condition="'$(GameDir)' != '' And !Exists('$(GameDir)/MelonLoader/Il2CppAssemblies/Assembly-CSharp.dll')"
+           Text="Run the game with MelonLoader once to generate local IL2CPP reference assemblies." />
+  </Target>
+</Project>

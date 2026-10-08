@@ -1,0 +1,112 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>BrewingExpansion</AssemblyName>
+    <RootNamespace>BrewingExpansion</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Platforms>x64</Platforms>
+    <PlatformTarget>x64</PlatformTarget>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <!-- 编译 Class1.cs -->
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="BEState.cs" />
+    <Compile Include="Barrel\*.cs" />
+  </ItemGroup>
+
+  <!-- DLL 引用 -->
+  <ItemGroup>
+<Reference Include="Mono.Cecil">
+      <HintPath>$(GameDir)\MelonLoader\net6\Mono.Cecil.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="MelonLoader">
+      <HintPath>$(GameDir)\MelonLoader\net6\MelonLoader.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>$(GameDir)\MelonLoader\net6\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Il2CppInterop.Runtime">
+      <HintPath>$(GameDir)\MelonLoader\net6\Il2CppInterop.Runtime.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Il2CppSystem">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\Il2CppSystem.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.ImageConversionModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.UIModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.AudioModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(GameDir)\MelonLoader\Il2CppAssemblies\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- 全部 PNG 作为嵌入资源（自动包含 Textures 文件夹里所有 .png） -->
+  <ItemGroup>
+    <EmbeddedResource Include="Textures\**\*.png" />
+    <EmbeddedResource Include="music\*.mp3" />
+  </ItemGroup>
+
+   <!-- 每次编译都自动复制到游戏 Mods 目录 -->
+  <Target Name="CopyToGameMods" AfterTargets="Build" Condition="'$(SkipGameCopy)' != 'true'">
+    <Copy SourceFiles="$(TargetPath)"
+          DestinationFolder="$(GameDir)\Mods"
+          ContinueOnError="true" />
+
+    <Message Text="========================================" Importance="high" />
+    <Message Text="  [BE] 已将 $(TargetFileName) 复制到游戏 Mods 目录" Importance="high" />
+    <Message Text="  源文件: $(TargetPath)" Importance="high" />
+    <Message Text="  目标:   $(GameDir)\Mods" Importance="high" />
+    <Message Text="========================================" Importance="high" />
+  </Target>
+
+</Project>

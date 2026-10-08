@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net6.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><LangVersion>latest</LangVersion><DefineConstants>REAL_HARMONY</DefineConstants><NuGetAudit>false</NuGetAudit><CheckEolTargetFramework>false</CheckEolTargetFramework></PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony"><HintPath>D:/steam/steamapps/common/Probably Stolen Demo/MelonLoader/net6/0Harmony.dll</HintPath></Reference>
+    <Reference Include="MonoMod.RuntimeDetour"><HintPath>D:/steam/steamapps/common/Probably Stolen Demo/MelonLoader/net6/MonoMod.RuntimeDetour.dll</HintPath></Reference>
+    <Reference Include="MonoMod.Utils"><HintPath>D:/steam/steamapps/common/Probably Stolen Demo/MelonLoader/net6/MonoMod.Utils.dll</HintPath></Reference>
+    <Reference Include="Mono.Cecil"><HintPath>D:/steam/steamapps/common/Probably Stolen Demo/MelonLoader/net6/Mono.Cecil.dll</HintPath></Reference>
+    <Reference Include="Mono.Cecil.Mdb"><HintPath>D:/steam/steamapps/common/Probably Stolen Demo/MelonLoader/net6/Mono.Cecil.Mdb.dll</HintPath></Reference>
+    <Reference Include="Mono.Cecil.Pdb"><HintPath>D:/steam/steamapps/common/Probably Stolen Demo/MelonLoader/net6/Mono.Cecil.Pdb.dll</HintPath></Reference>
+    <Compile Include="../../../research/liunian-priority-crash-20261008/withdrawn-source/NativeContract.cs" Link="NativeContract.cs" />
+    <Compile Include="../../../research/liunian-priority-crash-20261008/withdrawn-source/ExtractedCold.cs" Link="ExtractedCold.cs" />
+    <Compile Include="../../../research/liunian-priority-crash-20261008/withdrawn-source/LiunianAgingCycle.cs" Link="LiunianAgingCycle.cs" />
+    <Compile Include="../../../research/liunian-priority-crash-20261008/withdrawn-source/LiunianModuleBatch.cs" Link="LiunianModuleBatch.cs" />
+    <Compile Include="../../../research/liunian-priority-crash-20261008/withdrawn-source/LiunianValidationBatch.cs" Link="LiunianValidationBatch.cs" />
+    <Compile Include="../../../research/liunian-priority-crash-20261008/withdrawn-source/LiunianPriorityScope.cs" Link="LiunianPriorityScope.cs" />
+    <Compile Include="../../../research/liunian-priority-crash-20261008/withdrawn-source/LiunianOptimizerCompatibility.cs" Link="LiunianOptimizerCompatibility.cs" />
+    <Compile Include="../../BrewingExpansion/Barrel/NativeActionIdentity.cs" Link="NativeActionIdentity.cs" />
+    <Compile Include="../../BrewingExpansion/Barrel/ExtendedWineAge.cs" Link="ExtendedWineAge.cs" />
+    <Compile Include="../../BrewingExpansion/Barrel/AgingBatchMath.cs" Link="AgingBatchMath.cs" />
+  </ItemGroup>
+</Project>

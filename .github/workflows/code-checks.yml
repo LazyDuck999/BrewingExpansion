@@ -1,0 +1,20 @@
+name: Code checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  pure-logic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Aging numeric checks
+        run: dotnet run --project BrewingExpansion/tests/AgingBatchCheck -c Release
+      - name: Seed probability checks
+        run: dotnet run --project BrewingExpansion/tests/SeedOddsCheck -c Release
+      - name: Local music file checks
+        run: dotnet run --project BrewingExpansion/tests/LocalMusicCheck -c Release

@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <GameDir Condition="'$(GameDir)' == ''">$(PROBABLY_STOLEN_GAME_DIR)</GameDir>
+    <SkipGameCopy Condition="'$(SkipGameCopy)' == ''">true</SkipGameCopy>
+    <NuGetAudit>false</NuGetAudit>
+  </PropertyGroup>
+</Project>

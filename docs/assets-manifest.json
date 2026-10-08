@@ -1,0 +1,913 @@
+{
+  "note": "Filename inventory only. Media excluded; no resource permission is granted.",
+  "assets": [
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/hentai酵母.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/mp3.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu中级净水器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu中级电池.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu中级电池1.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu中级电池2.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu中级电池3.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu中级电池4.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu中级电池5.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu初级净水器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu初级电池.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu初级电池1.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu初级电池2.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu初级电池3.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu初级电池4.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu初级电池5.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu暖心杯.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu甜心杯.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu磁带捆绑包.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu赞助.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu酿造桶.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu音乐.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu高级净水器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu高级电池.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu高级电池1.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu高级电池2.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu高级电池3.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu高级电池4.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/xuxu高级电池5.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/一心为酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/中秋盲盒「限定」.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/中级盲盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/中级酵母反应器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/中级酿酒证书.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/云开月明灯.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/五仁月饼.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/低级盲盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/余光未冷.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/余烬.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/充能器合成图.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/冷星入盏.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/凝露.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/初级酿酒证书.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/半盏酸苦.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/南风旧酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/厌恶种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/原浆浓缩器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/双清酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/号码泥泥.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/商店四十七.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/啤酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/噢我的天啊是铱星大海参.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/四十七.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/四十七「小」暗格.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/四十七爱心杯.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/坠羽晨雾.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓1.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓10.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓11.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓12.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓13.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓14.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓15.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓16.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓17.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓2.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓3.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓4.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓5.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓6.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓7.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓8.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/多功能收纳仓9.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/夜香沉寂.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/夜香浮雪.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/容器盲盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/小麦.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/小麦原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/小麦种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/异调.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/弦间微风.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/彩虹配方.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/微醺之夜.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/念何事.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/手办盲盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/收藏酒盲盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/故穗.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/新人酿酒师开局.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/星坠青藤.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/星尘挽歌.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/星尘莓.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/星尘莓原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/星尘莓种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/星落麦田.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/月华桂.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/月团礼盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/朗姆酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/朽木露琪亚.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/杂酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/杨梅.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/杨梅原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/杨梅种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/柠檬.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/柠檬原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/柠檬种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/柠檬酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/桂信迟酸.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/桂花.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/桂花原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/桂花种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/桂魄流金.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/樱绯.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/樱雪囊.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/水稻.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/水稻原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/水稻种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/沉渊米酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/法外狂徒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/泥泥.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/流年.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/海蓝幻梦.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/清荔流霞.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/清酿澄水箱.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/灼泪衔丹.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/牢力士.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/猫又又小挎包.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/玉兔怀袖.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/玉兔衔桂.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/理想的尽头.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/甘蔗.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/甘蔗原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/甘蔗种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/电子幽灵.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/白兰地酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/石田雨龙.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/碧珀流光.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/碧麦流金.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/神奇猪猪.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/禁忌酵母反应器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/种子孵化器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/稻珀双甘.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/空谷苦艾.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/箬叶幽香.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/米酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/紫露金风.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/绛珠凝露.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/绛痕沉蔗.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/绯莓春酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/罗浮梦.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/翠玉清珠.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/花好月圆灯.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/花椒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/花椒原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/花椒种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/花椒酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/花蔗流年.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/苦艾草.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/苦艾草原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/苦艾草种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/苦艾酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/茉柠清晓.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/茉莉种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/茉莉花.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/茉莉花原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/茉莉青提.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/茉香米酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/荔枝.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/荔枝原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/荔枝种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/荔枝糯米冰酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/荔枝酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/虚空李.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/虚空李原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/虚空李种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/蟾宫折桂扇.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/蟾宫玉兔.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/赤麻渡.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/辣椒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/辣椒原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/辣椒种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/辣椒酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/逍遥法外.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/遗光盲盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酒吧特调.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酒瓶打印机.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酩酊大醉.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酸甜半盏.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒商店.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒手册.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒有嘻哈.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒灯牌.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方1.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方2.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方3.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方4.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方5.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方6.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方7.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/酿酒配方8.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/错付.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/错季书.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/霓虹幻梦.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/霓虹残梦.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/霓虹街道.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/霜凝青提.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/青提.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/青提原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/青提种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/青筠.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/高级盲盒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/高级酵母反应器.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/高级酿酒证书.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/麦甘酿.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黄瓜.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黄瓜原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黄瓜种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黄瓜酒.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黄葡萄.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黄葡萄原浆.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黄葡萄种子.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/Textures/黑崎一护.png",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/music/弦间微风.mp3",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/music/微醺之夜.mp3",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/music/酒吧特调.mp3",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/music/酿酒有嘻哈.mp3",
+      "published": false
+    },
+    {
+      "path": "BrewingExpansion/BrewingExpansion/music/霓虹街道.mp3",
+      "published": false
+    }
+  ]
+}
